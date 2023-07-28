@@ -1,0 +1,7 @@
+@media screen and (max-width:700px){
+    .background{
+        >img{
+            content: url("./images/pattern-background-desktop.svg");
+        }
+    }
+}
